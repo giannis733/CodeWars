@@ -1,9 +1,6 @@
 // Valid Parentheses
 // https://www.codewars.com/kata/52774a314c2333f0a7000688
 
-// Valid Parentheses
-// https://www.codewars.com/kata/52774a314c2333f0a7000688
-
 const validParentheses = (parens) => {
   let stack = [];
   
