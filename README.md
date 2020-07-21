@@ -1,2 +1,2 @@
 # CODEWARS Katas
-A list of all my katas on www.codewars.com.
+A list of all the katas I have completed on www.codewars.com.
