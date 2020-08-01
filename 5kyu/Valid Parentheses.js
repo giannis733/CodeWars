@@ -4,7 +4,6 @@
 const validParentheses = (parens) => {
   let stack = [];
   
-  console.log(parens);
   for (const paren of parens){
     if (paren === '(') 
       stack.push(paren);
