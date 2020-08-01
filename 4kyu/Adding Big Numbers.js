@@ -35,5 +35,3 @@ const add = (a, b) => {
 
   return addedNumber;
 }
-
-console.log(add('888', '222'));
